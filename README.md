@@ -1,5 +1,6 @@
 # Streamlit Machine Learning Web Application
 
+![Example](maxresdefault.jpg)
 
 This is a repository that demonstrates how to create a simple machine learning web application using the Streamlit library in Python. The application includes a user interface with various input widgets such as sliders, select boxes, and radio buttons for the user to input the required data. The application also includes input validation functions that ensure that the user inputs the correct data types and values.
 
